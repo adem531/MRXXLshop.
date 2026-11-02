@@ -1,0 +1,2 @@
+# MRXXLshop.
+Plugins
